@@ -94,7 +94,10 @@ Dijalankan setelah semua baris selesai dibaca. Menampilkan hasil sesuai pilihan 
 
 Jumlah penumpang
 
-![]()
+![](https://github.com/7Ramzy/7Ramzy-SISOP-1-2026-IT-121/blob/ccaeea684970af6b7a81a6c867a6d88cf336aac2/aset/Screenshot%202026-06-23%20163731.png)
+
+Jumlah gerbong
+
 ![]()
 ![]()
 ![]()

@@ -102,7 +102,7 @@ Jumlah gerbong
 
 Usia tertinggi/tertua
 
-![]()
+![](https://github.com/7Ramzy/7Ramzy-SISOP-1-2026-IT-121/blob/3722db9dc135c50ac92199724d1f7e88ddec2629/aset/Screenshot%202026-06-23%20163752.png)
 
 Rata rata usia
 

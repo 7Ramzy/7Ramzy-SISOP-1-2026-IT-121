@@ -110,7 +110,7 @@ Rata rata usia
 
 Jumlah penumpang kelas Bisnis
 
-![]()
+![](https://github.com/7Ramzy/7Ramzy-SISOP-1-2026-IT-121/blob/2f12508c7c9e3c8029037492e146686549ef4cc3/aset/Screenshot%202026-06-23%20163907.png)
 
 Opsi random
 

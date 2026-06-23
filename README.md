@@ -98,8 +98,22 @@ Jumlah penumpang
 
 Jumlah gerbong
 
+![](https://github.com/7Ramzy/7Ramzy-SISOP-1-2026-IT-121/blob/02369ead0a7d0ed3e9041bc8803aa385359cff9b/aset/Screenshot%202026-06-23%20163741.png)
+
+Usia tertinggi/tertua
+
 ![]()
+
+Rata rata usia
+
 ![]()
+
+Jumlah penumpang kelas Bisnis
+
 ![]()
+
+Opsi random
+
 ![]()
-![]()
+
+Tree

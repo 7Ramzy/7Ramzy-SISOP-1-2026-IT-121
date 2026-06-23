@@ -90,3 +90,13 @@ END {
 Dijalankan setelah semua baris selesai dibaca. Menampilkan hasil sesuai pilihan soal. Kalau input bukan a-e, menampilkan pesan error beserta contoh penggunaan.
 
 #### output
+![](https://github.com/7Ramzy/7Ramzy-SISOP-1-2026-IT-121/blob/41e2e3d68358af51fbcd0aae7a127044db49ad65/aset/Screenshot%202026-06-23%20163718.png)
+
+Jumlah penumpang
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()

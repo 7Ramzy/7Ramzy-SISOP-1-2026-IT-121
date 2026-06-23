@@ -106,7 +106,7 @@ Usia tertinggi/tertua
 
 Rata rata usia
 
-![]()
+![](https://github.com/7Ramzy/7Ramzy-SISOP-1-2026-IT-121/blob/cb007f53c4acbf4cfb1b4cdf926e237273b54371/aset/Screenshot%202026-06-23%20163807.png)
 
 Jumlah penumpang kelas Bisnis
 
